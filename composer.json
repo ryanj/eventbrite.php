@@ -1,5 +1,5 @@
 {
-	"name": "ryanjarvinen/eventbrite.php",
+	"name": "undernewmanagement/eventbrite.php",
 	"type": "library",
 	"description": "PHP client for the Eventbrite API",
 	"homepage": "http://eventbrite.github.com",
