@@ -1,4 +1,8 @@
 <?php
+
+namespace Eventbrite;
+
+
 class Eventbrite {
     /**
      * Eventbrite API endpoint
