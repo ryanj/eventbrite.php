@@ -1,6 +1,10 @@
 #PHP Eventbrite API Client Library
 ----------------------------------
-# Requirements: #
+
+##  WARNING: This library uses Eventbrite API endpoints that have been deprecated (as of April 2015). 
+See Eventbrite's developer site for updated info on how to use thier new APIs: https://developer.eventbrite.com
+
+## Requirements: ##
 ### API key ###
 Eventbrite API keys are available here: http://www.eventbrite.com/api/key/
 ### User key ###
